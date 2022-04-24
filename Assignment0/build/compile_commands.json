@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/assignment0/build",
+  "command": "/usr/bin/c++ -I../EIGEN3_INCLUDE_DIR -g -o CMakeFiles/Transformation.dir/main.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/assignment0/main.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/assignment0/main.cpp"
+}
+]

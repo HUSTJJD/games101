@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/last/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/last.dir/src/common/Float2Byte.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/last/src/common/Float2Byte.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/last/src/common/Float2Byte.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/last/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/last.dir/src/common/float2Extension.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/last/src/common/float2Extension.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/last/src/common/float2Extension.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/last/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/last.dir/src/common/float3Extension.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/last/src/common/float3Extension.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/last/src/common/float3Extension.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/last/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/last.dir/src/main.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/last/src/main.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/last/src/main.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/last/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/last.dir/src/scene/Camera.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/last/src/scene/Camera.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/last/src/scene/Camera.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/last/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/last.dir/src/scene/Scene.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/last/src/scene/Scene.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/last/src/scene/Scene.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/last/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/last.dir/src/window/Window.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/last/src/window/Window.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/last/src/window/Window.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/last/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/last.dir/src/window/glad.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/last/src/window/glad.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/last/src/window/glad.cpp"
+}
+]

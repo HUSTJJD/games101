@@ -1,0 +1,14 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "*.rmd": "markdown",
+        "*.py": "python",
+        "atomic": "cpp",
+        "cstdint": "cpp",
+        "random": "cpp",
+        "*.tcc": "cpp",
+        "stop_token": "cpp",
+        "chrono": "cpp",
+        "cassert": "cpp"
+    }
+}

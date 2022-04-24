@@ -1,0 +1,22 @@
+# ninja log v5
+119	2501	1648530333932802200	gpu/CMakeFiles/gpu.dir/RTDeviceData.cu.o	992d2d29b734ef69
+209	2424	1648524350504230900	gpu/CMakeFiles/gpu.dir/float3Extension.cu.o	5fb8c07741b31496
+3268	5499	1648532634710414400	gpu/gpu	1025c9b545023b91
+2905	3265	1648532632485436700	CMakeFiles/gpu.dir/cmake_device_link.o	f3eedace6072cd7c
+173	566	1648524946126954500	gpu/CMakeFiles/gpu.dir/glad.c.o	732c328b68eb76ea
+120	3238	1648530334671312100	gpu/CMakeFiles/gpu.dir/RTSampler.cu.o	7996e262f5f42d6f
+106	1150	1648530332579447000	gpu/CMakeFiles/gpu.dir/RayTracer.cpp.o	627af9b7043fb8f1
+104	849	1648532596104303000	gpu/CMakeFiles/gpu.dir/main.cpp.o	819c14a01d30167
+120	746	1648525145610101700	gpu/CMakeFiles/gpu.dir/Engine.cpp.o	66de2993650edf59
+96	2898	1648532632112034400	gpu/CMakeFiles/gpu.dir/Window.cpp.o	cb9dbafb2fe36772
+117	2563	1648530333989520000	gpu/CMakeFiles/gpu.dir/Material.cu.o	6b79990f7785d73f
+127	1875	1648524005435705700	gpu/CMakeFiles/gpu.dir/float2Extension.cu.o	9a39e8a8e402fd96
+30	2811	1648536485088680500	CMakeFiles/cudashader.dir/main.cpp.o	c615973b301462bf
+15	1057	1648607511416131700	build.ninja	9ae2dcb099f407c
+114	928	1648523977404818800	gpu/CMakeFiles/gpu.dir/Renderer.cpp.o	56c268a50e63b059
+2820	3342	1648536485624269800	cudashader	c145263f1cd2d458
+95	2287	1648532426614238100	gpu/CMakeFiles/gpu.dir/BVH.cu.o	2edbd9378d435cfb
+118	1084	1648524474759729400	gpu/CMakeFiles/gpu.dir/Float2Byte.cu.o	686623dc338b4022
+97	4601	1648532173986115100	gpu/CMakeFiles/gpu.dir/Scene.cpp.o	a12f6de1cedb30b4
+114	3611	1648530335040629900	gpu/CMakeFiles/gpu.dir/DeviceManager.cu.o	fd8ed0e85aebcce8
+180	721	1648524348796256700	gpu/CMakeFiles/gpu.dir/AABB.cpp.o	1ccbcec3db12af0f

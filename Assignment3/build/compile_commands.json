@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/assignment3/build",
+  "command": "/usr/bin/c++ -I.././include -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/Rasterizer.dir/main.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/assignment3/main.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/assignment3/main.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/assignment3/build",
+  "command": "/usr/bin/c++ -I.././include -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/assignment3/rasterizer.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/assignment3/rasterizer.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/assignment3/build",
+  "command": "/usr/bin/c++ -I.././include -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/Rasterizer.dir/Triangle.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/assignment3/Triangle.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/assignment3/Triangle.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/assignment3/build",
+  "command": "/usr/bin/c++ -I.././include -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/Rasterizer.dir/Texture.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/assignment3/Texture.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/assignment3/Texture.cpp"
+}
+]

@@ -1,0 +1,6 @@
+#ifndef CUDASHADER_CUDARENDER_H
+#define CUDASHADER_CUDARENDER_H
+class CudaRenderer
+{
+}
+#endif // CUDASHADER_CUDARENDER_H

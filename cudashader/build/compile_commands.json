@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/cudashader/build",
+  "command": "/usr/bin/g++ -I. -I../ -g -std=gnu++17 -o CMakeFiles/cudashader.dir/main.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/cudashader/main.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/cudashader/main.cpp"
+}
+]

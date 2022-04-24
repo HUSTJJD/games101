@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/assignment6/build",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/main.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/assignment6/main.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/assignment6/main.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/assignment6/build",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/Vector.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/assignment6/Vector.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/assignment6/Vector.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/assignment6/build",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/assignment6/Scene.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/assignment6/Scene.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/assignment6/build",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/BVH.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/assignment6/BVH.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/assignment6/BVH.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/assignment6/build",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/assignment6/Renderer.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/assignment6/Renderer.cpp"
+}
+]

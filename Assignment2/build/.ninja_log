@@ -1,0 +1,6 @@
+# ninja log v5
+9	646	1647861765178786400	build.ninja	1af582887e150b07
+3449	4399	1647861608879255600	Rasterizer	fb96ce06a482c14c
+25	3445	1647861607923016600	CMakeFiles/Rasterizer.dir/rasterizer.cpp.o	26cbc2c7a36aa1e2
+16	2386	1647861287686165800	CMakeFiles/Rasterizer.dir/main.cpp.o	688a0763ee4784ae
+15	1150	1647856392600109600	CMakeFiles/Rasterizer.dir/Triangle.cpp.o	d177c525d478301e

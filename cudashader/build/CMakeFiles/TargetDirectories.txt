@@ -1,0 +1,3 @@
+/mnt/c/Users/JJD/Desktop/games101/cudashader/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/JJD/Desktop/games101/cudashader/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/JJD/Desktop/games101/cudashader/build/CMakeFiles/cudashader.dir

@@ -1,0 +1,11 @@
+# ninja log v5
+65	2819	1649302938975131900	CMakeFiles/last.dir/src/common/float3Extension.cpp.o	8da08da7362451ce
+38	2880	1649239194475631000	CMakeFiles/last.dir/src/main.cpp.o	c8905b12b7983d6
+14	268	1649235917550033900	CMakeFiles/last.dir/src/glad.cpp.o	5323d0913d011116
+1173	1401	1649222631612403600	gpu	174b6c26ef776f3
+15	1166	1649222631373243800	CMakeFiles/gpu.dir/src/main.cpp.o	f9c072261ecae43d
+13	1168	1649310527449372300	build.ninja	6d02831107ebb809
+12	276	1649213393340891400	CMakeFiles/gpu.dir/src/glad.cpp.o	d4b10ae7119f8344
+30	138	1649238398999223900	CMakeFiles/last.dir/src/scene/Camera.cpp.o	a746636eab17808d
+62	3732	1649302085711447100	CMakeFiles/last.dir/src/common/float2Extension.cpp.o	3df1264ee97c7a08
+39	336	1649238399197534000	CMakeFiles/last.dir/src/window/glad.cpp.o	9b1b136ad596ce58

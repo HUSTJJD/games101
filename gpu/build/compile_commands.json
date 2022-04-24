@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/gpu.dir/src/cuda/RayTracer.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/gpu/src/cuda/RayTracer.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/cuda/RayTracer.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/gpu.dir/src/main.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/gpu/src/main.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/main.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/gpu.dir/src/scene/Bounds3.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/gpu/src/scene/Bounds3.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/scene/Bounds3.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/gpu.dir/src/scene/Scene.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/gpu/src/scene/Scene.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/scene/Scene.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/gpu.dir/src/window/Engine.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/gpu/src/window/Engine.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/window/Engine.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/gpu.dir/src/window/Window.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/gpu/src/window/Window.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/window/Window.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/bin/g++ -I. -I../ -I/usr/local/cuda/include -I../headers -g -o CMakeFiles/gpu.dir/src/window/glad.cpp.o -c /mnt/c/Users/JJD/Desktop/games101/gpu/src/window/glad.cpp",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/window/glad.cpp"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler -I. -I../ -I/usr/local/cuda/include -I../headers  -std=c++11 -use_fast_math -g --generate-code=arch=compute_52,code=[compute_52,sm_52] -std=c++17 -x cu -dc /mnt/c/Users/JJD/Desktop/games101/gpu/src/common/Float2Byte.cu -o CMakeFiles/gpu.dir/src/common/Float2Byte.cu.o",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/common/Float2Byte.cu"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler -I. -I../ -I/usr/local/cuda/include -I../headers  -std=c++11 -use_fast_math -g --generate-code=arch=compute_52,code=[compute_52,sm_52] -std=c++17 -x cu -dc /mnt/c/Users/JJD/Desktop/games101/gpu/src/common/float2Extension.cu -o CMakeFiles/gpu.dir/src/common/float2Extension.cu.o",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/common/float2Extension.cu"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler -I. -I../ -I/usr/local/cuda/include -I../headers  -std=c++11 -use_fast_math -g --generate-code=arch=compute_52,code=[compute_52,sm_52] -std=c++17 -x cu -dc /mnt/c/Users/JJD/Desktop/games101/gpu/src/common/float3Extension.cu -o CMakeFiles/gpu.dir/src/common/float3Extension.cu.o",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/common/float3Extension.cu"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler -I. -I../ -I/usr/local/cuda/include -I../headers  -std=c++11 -use_fast_math -g --generate-code=arch=compute_52,code=[compute_52,sm_52] -std=c++17 -x cu -dc /mnt/c/Users/JJD/Desktop/games101/gpu/src/cuda/DeviceManager.cu -o CMakeFiles/gpu.dir/src/cuda/DeviceManager.cu.o",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/cuda/DeviceManager.cu"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler -I. -I../ -I/usr/local/cuda/include -I../headers  -std=c++11 -use_fast_math -g --generate-code=arch=compute_52,code=[compute_52,sm_52] -std=c++17 -x cu -dc /mnt/c/Users/JJD/Desktop/games101/gpu/src/cuda/RTDeviceData.cu -o CMakeFiles/gpu.dir/src/cuda/RTDeviceData.cu.o",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/cuda/RTDeviceData.cu"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler -I. -I../ -I/usr/local/cuda/include -I../headers  -std=c++11 -use_fast_math -g --generate-code=arch=compute_52,code=[compute_52,sm_52] -std=c++17 -x cu -dc /mnt/c/Users/JJD/Desktop/games101/gpu/src/cuda/RTSampler.cu -o CMakeFiles/gpu.dir/src/cuda/RTSampler.cu.o",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/cuda/RTSampler.cu"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler -I. -I../ -I/usr/local/cuda/include -I../headers  -std=c++11 -use_fast_math -g --generate-code=arch=compute_52,code=[compute_52,sm_52] -std=c++17 -x cu -dc /mnt/c/Users/JJD/Desktop/games101/gpu/src/scene/BVH.cu -o CMakeFiles/gpu.dir/src/scene/BVH.cu.o",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/scene/BVH.cu"
+},
+{
+  "directory": "/mnt/c/Users/JJD/Desktop/games101/gpu/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler -I. -I../ -I/usr/local/cuda/include -I../headers  -std=c++11 -use_fast_math -g --generate-code=arch=compute_52,code=[compute_52,sm_52] -std=c++17 -x cu -dc /mnt/c/Users/JJD/Desktop/games101/gpu/src/scene/Material.cu -o CMakeFiles/gpu.dir/src/scene/Material.cu.o",
+  "file": "/mnt/c/Users/JJD/Desktop/games101/gpu/src/scene/Material.cu"
+}
+]

@@ -1,0 +1,3 @@
+/mnt/c/Users/JJD/Desktop/games101/assignment3/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/JJD/Desktop/games101/assignment3/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/JJD/Desktop/games101/assignment3/build/CMakeFiles/Rasterizer.dir
